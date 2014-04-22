@@ -8,7 +8,7 @@ Compare to the official version of 2048, to win this game you have to reach 8192
 
 <img src="http://i.imgur.com/bjRJhKq.png">
 
-The screenshot above is genuine, I really wanted to get to the 10th Doctor, alias David Tennant, and after many attemps in the end I did it :Q_
+The screenshot above is genuine, I really wanted to get to the 10th Doctor, alias David Tennant, and after many attemps in the end I did it <3 
 
 =======
 <strong>Created by Generalbrus (https://github.com/Generalbrus)</strong><br/>
