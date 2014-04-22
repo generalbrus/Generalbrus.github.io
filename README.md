@@ -4,7 +4,7 @@
 Merge the Doctors and get to the 12th! (There are actually 13 Doctors as the War Doctor has been included).
 Comparing this game to the official version of 2048, to win you have to reach 8192 (<strong>2^13</strong>)
 
-<strong>NOTE: </strong>The game is available also offline for Android devices (Android 2.3.3 or higher required), download here: http://tinyurl.com/2048dw-apk. 
+<strong>NOTE: </strong>The game is available also offline for Android devices (Android 2.3.3 or higher required), download here: http://bit.ly/1i6Mt42. 
 
 <img src="http://i.imgur.com/bjRJhKq.png">
 
