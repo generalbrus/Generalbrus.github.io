@@ -1,5 +1,6 @@
 <h1>2048.dw</h1>
 <h3>The Gallifreyan version of 2048!</h3>
+<strong>Play it here (online via browser): http://generalbrus.github.io/2048.dw/</strong><br/>
 Merge the Doctors and get to the 12th! (There are actually 13 Doctors as the War Doctor has been included).
 Compare to the official version of 2048, to win this game you have to reach 8192 (strong>2^13</strong>)
 
